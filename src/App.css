@@ -9,7 +9,7 @@ body{
     font-family: var(--type-first);
 }
 
-h1,h2,h3,h4{
+h1,h2,h3,h4, p{
     margin: 0px;
 }
 
@@ -21,7 +21,7 @@ ul, li{
 
 img{
     display: block;
-    max-width: 100px;
+    max-width: 100%;
 }
 
 button, input{
